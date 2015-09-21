@@ -6,4 +6,4 @@
 %define android_config \
 #define QCOM_BSP 1\
 %{nil}
-%include rpm/droid-hal-device.inc
+%include rpm/dhd/droid-hal-device.inc
